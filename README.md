@@ -4,8 +4,8 @@
 [appinventor website](https://appinventor.mit.edu/)<br>
 * create apps
 * create new project 
-* rename it Mr.saver
-![our project steps]
+* rename it Mrsaver
+
 #### second,
 create first screen with our game logo and start button
 logo image
@@ -16,28 +16,52 @@ Earth asks Mr.Saver to help it save earth resources as water and plant and defen
 earth asking saver for help image:
 <img src="https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver-/blob/main/mr.saver%20challenge%201/intro%20(1).jpeg" width=200>
 #### for good ** USER EXPERIENCE ** we add game map to explain game trip and challenges:
-![map image]()
-#### challenge 1:
-* background of clouds and falling rain,there is score counter and 3 hearts represents  lives
+<img src="https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver./blob/main/final%20screens%20update/map.jpeg" width=400>
+
+##  challenge 1:
+*   background of clouds and falling rain,there is score counter and 3 hearts represents  lives
 mr saver standing with abowl try to collect every drop of water,each drop falls to earth decreases life by 1<br>
 if lives equal 0,another screen appears contains try again button
-if score equal 30,you passed the challenge and go to  another screen
-![challenge1 design](https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver-/blob/main/mr.saver%20challenge%201/2f530d43-318c-429a-b20d-c575c6af4a02.jpeg)
-
+if score equal 30,you passed the challenge and go to  another challenge
+challenge1 design:
+<img src="https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver./blob/main/final%20screens%20update/challenge1.jpg" width=400>
 ___
 
 ### challenge1 code:
-![](https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver-/blob/main/mr.saver%20challenge%201/chall11.jpg)
-![](https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver-/blob/main/mr.saver%20challenge%201/chall12.jpg)
+![](https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver./blob/main/final%20screens%20update/challenge11.jpg)
+![](https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver./blob/main/final%20screens%20update/challenge12.jpg)
+
+##  challenge 2:
+for good user experience we add intro challenge 2 screen
+
+<img src="https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver./blob/main/final%20screens%20update/challenge%202%20intro.jpg" width=400>
+as our intro mrSaver should collect buckets of water that collected in challenge1 
+  first:
+*  brown bucket increases score by 5
+*  green bucket increases score by 10
+*  red bucket increases score by 15
+*  blue bucket increases score by 20
+
+water the plant to grow ageen and beautiful orange trees
+##  second:
+ saver should collect windmill parts and search for hummer to fix it
+ and appear fixed windmill
+ to get score 100 and go to challenge3
+
+ ## challeng3:
+
+
+
 
 ___
-###  compile the game:
+##  compile the game:
 * install MitAI2 companion from google play or appstore then scan qrcode
   [MitAI2 companion link](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=en&gl=US&pli=1)
-from appinventor click on connect then choose AIcompanion that will run game
+* from appinventor click on connect then choose AIcompanion that will run game
 the game will be compiled, and can to play and check your game
 to download game to your mobile:
-* click on build android app.apk
+* click on build android app.apk download apk to your computer or
+*  scan it with mobile and play the game
 
 ##  team members:
 * ### marwan osama
