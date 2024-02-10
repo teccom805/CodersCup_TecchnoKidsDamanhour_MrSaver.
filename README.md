@@ -1,7 +1,8 @@
 # CodersCup_TecchnoKidsDamanhour_MrSaver.
 # Mr.Saver readme file
-#### firist, open Mit app inventor website
+#### first, open Mit app inventor website
 [appinventor website](https://appinventor.mit.edu/)<br>
+<img src="https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver./blob/main/final%20screens%20update/Screenshot%202024-02-02%20110240.jpg" width=400>
 * create apps
 * create new project 
 * rename it Mrsaver
@@ -10,8 +11,9 @@
 create first screen with our game logo and start button
 logo image
 <img src="https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver-/blob/main/mr.saver%20challenge%201/EARTHLOGO.png" width=150>
-
-#### As  competition theme ** "defend castle" **,  in our game we applied the theme as:
+### first screen
+<img src="https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver./blob/main/final%20screens%20update/start%20game.jpg" width=200>
+ ###  As  competition theme ** "defend castle" **,  in our game we applied the theme as:
 Earth asks Mr.Saver to help it save earth resources as water and plant and defend it from harmful petrol effect
 earth asking saver for help image:
 <img src="https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver-/blob/main/mr.saver%20challenge%201/intro%20(1).jpeg" width=200>
@@ -47,10 +49,26 @@ water the plant to grow ageen and beautiful orange trees
  saver should collect windmill parts and search for hummer to fix it
  and appear fixed windmill
  to get score 100 and go to challenge3
+ <img src="https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver./blob/main/final%20screens%20update/challenge%202%20design.jpg" width=400>
+ challenge 2 code:
+ ![](https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver./blob/main/final%20screens%20update/challenge%2021.jpg)
+ ![](https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver./blob/main/final%20screens%20update/challenge%202%202.jpg)
 
  ## challeng3:
+ abackground of green earth and abeautiful sun and mr.saver,also solar cell energy counter,and also countdown timer of 60 seconds
+ Mr.saver should jump and touch sun to get solar energy from sun each time, energy increases by 1,solar energy  should be (20) before time (60 sec)run out to win the game
+challenge 3 intro:
+<img src="https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver./blob/main/final%20screens%20update/challenge%203intro.jpg" width=400>
+challenge 3 design:
+<img src="https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver./blob/main/final%20screens%20update/challenge3%20design.jpg" width=400>
 
+# # challenge 3 code:
 
+![](https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver./blob/main/final%20screens%20update/challenge%2031.jpg)
+![](https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver./blob/main/final%20screens%20update/challenge%203%202.jpg)
+## win screen
+earth give mr.saver  champion cup because he save earth resources 
+<img src="https://github.com/teccom805/CodersCup_TecchnoKidsDamanhour_MrSaver./blob/main/final%20screens%20update/win%20screen.jpg" width=300>
 
 
 ___
