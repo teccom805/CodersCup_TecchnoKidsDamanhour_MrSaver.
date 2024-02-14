@@ -83,19 +83,21 @@ to download game to your mobile:
 
 ##  team members:
 * ### marwan osama
-  design challenge1   and codes falling drops of water  from y axis with score counter increased each drop by 1 and three lives  decreases by 1 if touched ground 
+  design challenge1   and codes falling drops of water  from y axis with score counter increased each drop by 1 and three lives  decreases by 1 if touched ground
+  power up saver by extra points
 * ### jan sherif
 design challenge 2  and codes M saver that collects water buckets to water grass and grows trees,
 each bucket has different score to motivate character to achieve  more challenge
+and also collect windmill parts and search for hummer to fix it
 * ### ahmed omar
 background edit by photoshop ,and edit Mr.saver character,and create logo of game
-designed and edit map of the game to discuss game trip and challenges for easy user experience
+designed and edit map of the game to discuss game trip and challenges for easy user experience ,provide documentation of the game,applied the theme of competition
 * ### loay nosir
   provide  player and sound effects
   writes documentation of game
   screen shots backgrounds and collect all pictures backgrounds in the game
-  helps in coding
+  helps in coding ,prepare presentation of the game
 * ### aseel ghazi
- designed challenge 3 and codes animating saver that skip running petrol  if touched try again because it has many side effects on earth and depends on sun power ,other members helps in coding
+ designed challenge 3 and codes animating saver that jumps and gets power from sun power ,and increases solar energy because it is renewable resource of power and dont cause bad effects on earth or environment
   ##  team trainer:
 *  basma salah
