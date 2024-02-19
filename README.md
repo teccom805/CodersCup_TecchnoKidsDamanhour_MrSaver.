@@ -73,6 +73,9 @@ earth give mr.saver  champion cup because he save earth resources
 
 ___
 ##  compile the game:
+ ### to compile apk file sent:
+* download apk file sent then install it on your android phone then play the game
+### to compile aia file:
 * install MitAI2 companion from google play or appstore then scan qrcode
   [MitAI2 companion link](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=en&gl=US&pli=1)
 * from appinventor click on connect then choose AIcompanion that will run game
