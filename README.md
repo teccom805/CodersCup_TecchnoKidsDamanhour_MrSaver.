@@ -94,7 +94,7 @@ each bucket has different score to motivate character to achieve  more challenge
 and also collect windmill parts and search for hummer to fix it
 * ### ahmed omar
 background edit by photoshop ,and edit Mr.saver character,and create logo of game
-designed and edit map of the game to discuss game trip and challenges for easy user experience ,provide documentation of the game,applied the theme of competition
+designed and edit map of the game to discuss game trip and challenges for easy user experience ,provide documentation of the game,prepare gdd file,and edit videos
 * ### loay nosir
   provide  player and sound effects
   writes documentation of game
